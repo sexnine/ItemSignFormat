@@ -1,0 +1,8 @@
+name: ItemSignFormat
+version: '${version}'
+main: xyz.sexnine.itemsignformat.ItemSignFormat
+api-version: 1.19
+prefix: ItemSignFormat
+authors: [sexnine]
+description: Formatting for items (in anvil) and signs.
+website: https://sexnine.xyz
