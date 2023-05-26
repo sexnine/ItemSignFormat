@@ -1,5 +1,7 @@
 # ItemSignFormat
 
+[Download](https://github.com/sexnine/ItemSignFormat/releases/download/1.0/ItemSignFormat-1.0.jar)
+
 A simple Minecraft plugin that allows players to use formatting/colors in item names (on anvil) and on signs!
 
 Supports Spigot/Paper on 1.19.
